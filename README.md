@@ -10,5 +10,8 @@ Multinomial Coefficient.R conducts NLP and Lasso regression, estimates p-value o
 #
 # Image
 This folder includes plots of frequency of top 20 words appearing in all reviews, reviews with 1 star, 2 stars, 3 stars, 4, stars, and 5 stars, respectively. It also includes a histogram plot for review stars. In addtion, a table of regression estimates from Lasso is also listed. 
-
-# Executive Summary.doc is added
+#
+# www
+This folder contains app.R code for creating the Shiny app. It also contains several images used in the programing.
+#
+# Executive Summary
