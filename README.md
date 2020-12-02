@@ -1,7 +1,7 @@
 # 628-Module-3-Group 2
 #
 # Summary
-  Our project focuses on restaurants serving fast food. We aim to provide advices to the restaurants based on our analysis, categorized into four categories: food, service, wating time, and sanitary conditions. Please refer to our report Executive Summary_Module 3.pdf for more details. Our presentation is saved in 
+  Our project focuses on restaurants serving fast food. We aim to provide advices to the restaurants based on our analysis, categorized into four categories: food, service, wating time, and sanitary conditions. Please refer to our report Executive Summary_Module 3.pdf for more details. Our presentation is saved in Module 3 Presentation_Group 2.mp4. 
 #
 # Codes 
 This folder contains serveral R codes. Subset.R conducts data extraction and data cleaning, resulting in 628.Rdata.
@@ -13,5 +13,4 @@ This folder includes plots of frequency of top 20 words appearing in all reviews
 #
 # www
 This folder contains app.R code for creating the Shiny app. It also contains several images used in the programing.
-#
-# Executive Summary
+
