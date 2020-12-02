@@ -1,7 +1,7 @@
 # 628-Module-3-Group 2
 #
 # Summary
-  Our project focuses on restaurants serving fast food. We aim to provide advices to the restaurants based on our analysis, categorized into four categories: food, service, wating time, and sanitary conditions. Please refer to our report Executive Summary
+  Our project focuses on restaurants serving fast food. We aim to provide advices to the restaurants based on our analysis, categorized into four categories: food, service, wating time, and sanitary conditions. Please refer to our report Executive Summary_Module 3.pdf for more details. Our presentation is saved in 
 #
 # Codes 
 This folder contains serveral R codes. Subset.R conducts data extraction and data cleaning, resulting in 628.Rdata.
