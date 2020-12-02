@@ -5,7 +5,7 @@
 #
 # Codes 
 This folder contains serveral R codes. Subset.R conducts data extraction and data cleaning, resulting in 628.Rdata.
-module3_plots.R makes plots of the selected group of restaurants.
+module3_plots.R makes plots for the selected group of restaurants.
 Multinomial Coefficient.R conducts NLP and Lasso regression and estimates p-value of estimated parameters from Lasso.
 #
 # Image
