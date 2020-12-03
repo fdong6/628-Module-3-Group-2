@@ -11,7 +11,7 @@ Multinomial Coefficient.R conducts NLP and Lasso regression and estimates p-valu
 # Image
 This folder includes plots of frequency of top 20 words appearing in all reviews, reviews with 1 star, 2 stars, 3 stars, 4, stars, and 5 stars, respectively. It also includes a histogram plot for review stars. In addtion, a table of regression estimates from Lasso is listed. This table only includes variables directly linked to the four targeted categories. Variables that are not useful for providing recommendations are excluded. Please note that the results of calculating the significance of parameters in Lasso are saved in sig.Rdata, which is too big to upload. 
 #
-# R Shiny
+# R Shiny Application
 This folder contains app.R code for creating the Shiny app. It also contains several images used in the programing. The link to the app is https://zhiyu29.shinyapps.io/myapp/
 
 
